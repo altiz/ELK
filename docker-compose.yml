@@ -49,6 +49,8 @@ services:
     ports:
       - 9100:9100
 
+
+
 volumes:
   esdata:
     driver: local
